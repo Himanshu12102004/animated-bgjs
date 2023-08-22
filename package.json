@@ -1,0 +1,19 @@
+{
+  "name": "animated-bgjs",
+  "version": "1.0.0",
+  "description": "This npm library is a collection of animated backgrounds which you can use in your websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu12102004/animated-bgjs.git"
+  },
+  "author": "Himanshu Gupta <himanshu12102004@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu12102004/animated-bgjs/issues"
+  },
+  "homepage": "https://github.com/Himanshu12102004/animated-bgjs#readme"
+}
